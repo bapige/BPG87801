@@ -49,11 +49,11 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: '微信BPG878',
+      name: 'WeChat: BPG878',
       link: 'https://https://github.com/',
     },
     {
-      name: '电报',
+      name: 'Telegram',
       link: 'https://t.me/bpg878
 ',
     },
